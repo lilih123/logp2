@@ -1,0 +1,10 @@
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\bin\Debug\pag39_ex13.exe.config
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\bin\Debug\pag39_ex13.exe
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\bin\Debug\pag39_ex13.pdb
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\obj\Debug\pag39_ex13.csproj.AssemblyReference.cache
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\obj\Debug\pag39_ex13.Form1.resources
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\obj\Debug\pag39_ex13.Properties.Resources.resources
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\obj\Debug\pag39_ex13.csproj.GenerateResource.cache
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\obj\Debug\pag39_ex13.csproj.CoreCompileInputs.cache
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\obj\Debug\pag39_ex13.exe
+C:\Users\alice_guoemh3\OneDrive\Documentos\cotemig\ano 2\logp\estudos_autonomos\pag39_ex13\obj\Debug\pag39_ex13.pdb
